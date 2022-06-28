@@ -1,0 +1,24 @@
+#download{
+    background-color: rgb(201, 38, 38);
+    font-size: 200%;
+    width: 231px;
+    height: 50px;
+    margin:0 auto;
+   
+}
+#a{
+    color: rgb(255, 255, 255);
+    text-decoration:none
+};
+#p1
+{
+    position: absolute;
+
+height: 50px;
+
+text-align: center;
+
+line-height: 50px;
+
+width: 100%;
+}
