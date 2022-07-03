@@ -6,6 +6,18 @@
 <meta charset="utf-8">
 <title>MoChi墨辰音源公式站</title>
 <link rel="stylesheet" type="text/css" href="./css/index.css">
+<script type="text/javascript">
+  var system ={};  
+     var p = navigator.platform;       
+     system.win = p.indexOf("Win") == 0;  
+     system.mac = p.indexOf("Mac") == 0;  
+     system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);     
+     if(system.win||system.mac||system.xll){//如果是电脑跳转到
+             window.location.href="./index.html";  
+     }else{  //如果是手机,跳转到
+            window.location.href="./demo.html";  
+     }
+</script>
 </head>
 
 <body>
