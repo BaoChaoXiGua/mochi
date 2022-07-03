@@ -15,6 +15,7 @@
     position: absolute;
     right: 0px;
     left: 0px;
+    z-index: 1;
 };
 #p1
 {
