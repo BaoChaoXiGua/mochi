@@ -1,18 +1,23 @@
 #download{
     background-color: rgb(201, 38, 38);
-    width: 15%;
-    height: 8%;
+    font-size: 200%;
+    width: 231px;
+    height: 50px;
     margin: 0 auto;
-    position: absolute;
-    top: 87%;
-    left: 44%;
-    text-align: left;
-    font-size: 42px;
-    right: 45%;
-    -webkit-box-shadow: 0px 0px 31px #B5363C;
-    box-shadow: 0px 0px 31px #B5363C;
+    position: relative;
+    left: -377px;
+    right: 0px;
+    top: -89px;
    
 }
+#a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    z-index: 1;
+};
 #p1
 {
     position: absolute;
@@ -21,106 +26,15 @@
     line-height: 50px;
     width: 100%;
 }
-#a{
-    color: rgb(255, 255, 255);
-    position: absolute;
-    right: 0px;
-    z-index: 1;
-    font-weight: bold;
-    text-decoration: none;
-    width: 100%;
-    left: 6%;
-    height: auto;
-}
-;
-.背景4   {
-    position: absolute;
-    width: 0%;
-    height: auto;
-    top: 71%;
-}
-
-.背景3 {
-    position: absolute;
-    width: 79%;
-    height: auto;
-    text-align: center;
-    top: -4%;
-    left: 5%;
-}
-
-.背景2 {
-    position: absolute;
-    width: 65%;
-    height: auto;
-    text-align: center;
-    bottom: -1%;
-    right: 0%;
-}
-.背景13 {
-    position: absolute;
-    top: -11%;
-    width: 100%;
-    height: auto;
-    left: -2px;
-    bottom: auto;
-}
-
-.背景5 {
-    position: absolute;
-    width: 52%;
-    height: auto;
-    top: 11%;
-    left: -2%;
-}
-.背景6 {
-    position: absolute;
-    width: 58%;
-    height: auto;
-    top: 10%;
-    right: 37%;
-}
-.背景7 {
-    position: absolute;
-    width: 58%;
-    height: auto;
-    right: 0%;
-    top: 5%;
-}
-.背景14 {
-    width: 64%;
-    height: auto;
-    position: absolute;
-    opacity: 1;
-    left: 20%;
-    top: 8%;
-}
-
-.背景8 {
-    position: absolute;
-    width: 68%;
-    height: auto;
-    right: 0%;
-    top: 19%;
-}
 #立绘 {
-    width: 17%;
-    height: auto;
     position: absolute;
-    left: 41%;
-    top: 16%;
-    right: 41%;
+    width: 507px;
+    height: auto;
+    left: 59%;
 }
 #mochi {
-    width: 8%;
-    height: auto;
-    position: absolute;
-    top: -1%;
-}
-#横线 {
-    position: absolute;
-    height: 1%;
-    width: 90%;
-    left: 9%;
-    top: 1.2%;
+    position: relative;
+    left: -202px;
+    padding-left: 22px;
+    padding-top: 37px;
 }
