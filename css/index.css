@@ -91,32 +91,32 @@
 
 .背景7 {
     position: absolute;
-    width: 97%;
+    width: 90%;
     height: auto;
     right: 8%;
     top: 8%;
 }
 .背景14 {
-    width: 70%;
+    width: 48%;
     height: auto;
     position: absolute;
     opacity: 1;
-    left: 16%;
-    top: 7%;
+    left: 19%;
+    top: 24%;
 }
 
 .背景8 {
     position: absolute;
-    width: 104%;
+    width: 95%;
     height: auto;
     right: 7%;
-    top: -21%;
+    top: -3%;
 }
 #立绘 {
-    width: 35%;
+    width: 25%;
     height: auto;
     position: absolute;
-    left: 32%;
+    left: 35%;
     top: 5%;
     right: 40%;
 }
@@ -134,4 +134,5 @@
     width: 85%;
     left: 7%;
     top: 5.2%;
+    visibility: hidden;
 }
